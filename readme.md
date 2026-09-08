@@ -1,4 +1,4 @@
-# Semana 3 · Criptografía aplicada e identidad digital
+#Criptografía aplicada e identidad digital
 
 **Módulo:** Desarrollo seguro, criptografía e IAM
 **Semana:** 3 — Criptografía e identidad
